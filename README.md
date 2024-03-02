@@ -1,1 +1,1 @@
-# Blog
+# Generate Blogs
